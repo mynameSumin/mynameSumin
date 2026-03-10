@@ -12,5 +12,4 @@
 - **Email:** msm4167@naver.com
 
 ### GitHub Stats
-![MinSumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameSumin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameSumin&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameSumin)](https://github.com/anuraghazra/github-readme-stats)
